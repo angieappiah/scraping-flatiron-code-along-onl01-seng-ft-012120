@@ -6,7 +6,7 @@ require_relative './course.rb'
 class Scraper
   
   def get_page
-    self.get_page
+  
   end
   
   def print_courses
